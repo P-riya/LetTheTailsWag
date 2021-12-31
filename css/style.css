@@ -107,7 +107,7 @@
 /* About Section  */
 #about{
     position:relative;
-    height:118vh;
+    height:131vh;
 }
 #about::before{
     content:'';
